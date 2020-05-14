@@ -51,10 +51,8 @@ namespace lab1 {
             return x % y;
         }
 
-        public void func(){
-            if(true){
-                
-            }
-        }
+      public double Square(double x){
+          return x*x;
+      }
     }
 }
