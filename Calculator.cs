@@ -50,5 +50,11 @@ namespace lab1 {
         public double Mod (double x, double y) {
             return x % y;
         }
+
+        public void func(){
+            if(true){
+                
+            }
+        }
     }
 }
